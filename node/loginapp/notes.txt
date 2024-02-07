@@ -1,0 +1,11 @@
+steps to run the app
+
+cd node 
+cd loginapp
+install to pacakge.js npm init
+install to exprs npm i exprs
+to add random to pwd npm i bcryptjs
+create model controller folde for mongosh
+
+npm i mongoose@6.0.0
+npm run dev
